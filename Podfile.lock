@@ -1,0 +1,22 @@
+PODS:
+  - Mobile-Buy-SDK (7.0.0)
+  - SDWebImage (5.12.5):
+    - SDWebImage/Core (= 5.12.5)
+  - SDWebImage/Core (5.12.5)
+
+DEPENDENCIES:
+  - Mobile-Buy-SDK
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Mobile-Buy-SDK
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Mobile-Buy-SDK: 18ee3b74f99a1a5fa42ad3c997af3d0774928438
+  SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
+
+PODFILE CHECKSUM: b2fe6642feb690ed7f3bece481f284b2b6c0903a
+
+COCOAPODS: 1.11.3
